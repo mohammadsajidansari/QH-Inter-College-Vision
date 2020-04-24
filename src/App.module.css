@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.mainImage {
+  height: 380px;
+  width: 100%;
+}
+
+@media (max-width: 770px) {
+  .mainImage {
+    height: 220px;
+    
+  }
+}
