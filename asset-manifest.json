@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/QH-Inter-College-Vision/static/css/main.28149bf3.chunk.css",
-    "main.js": "/QH-Inter-College-Vision/static/js/main.8bfd1ca8.chunk.js",
-    "main.js.map": "/QH-Inter-College-Vision/static/js/main.8bfd1ca8.chunk.js.map",
+    "main.css": "/QH-Inter-College-Vision/static/css/main.0e8a2465.chunk.css",
+    "main.js": "/QH-Inter-College-Vision/static/js/main.5870027b.chunk.js",
+    "main.js.map": "/QH-Inter-College-Vision/static/js/main.5870027b.chunk.js.map",
     "runtime-main.js": "/QH-Inter-College-Vision/static/js/runtime-main.85764345.js",
     "runtime-main.js.map": "/QH-Inter-College-Vision/static/js/runtime-main.85764345.js.map",
-    "static/js/2.27cc0164.chunk.js": "/QH-Inter-College-Vision/static/js/2.27cc0164.chunk.js",
-    "static/js/2.27cc0164.chunk.js.map": "/QH-Inter-College-Vision/static/js/2.27cc0164.chunk.js.map",
+    "static/js/2.7fa24214.chunk.js": "/QH-Inter-College-Vision/static/js/2.7fa24214.chunk.js",
+    "static/js/2.7fa24214.chunk.js.map": "/QH-Inter-College-Vision/static/js/2.7fa24214.chunk.js.map",
     "index.html": "/QH-Inter-College-Vision/index.html",
-    "precache-manifest.cc2dbb18371f22e0c990d3fc54180e17.js": "/QH-Inter-College-Vision/precache-manifest.cc2dbb18371f22e0c990d3fc54180e17.js",
+    "precache-manifest.bf5cd7f5a28bfc0eddb244d6fc2c4958.js": "/QH-Inter-College-Vision/precache-manifest.bf5cd7f5a28bfc0eddb244d6fc2c4958.js",
     "service-worker.js": "/QH-Inter-College-Vision/service-worker.js",
-    "static/css/main.28149bf3.chunk.css.map": "/QH-Inter-College-Vision/static/css/main.28149bf3.chunk.css.map",
-    "static/js/2.27cc0164.chunk.js.LICENSE.txt": "/QH-Inter-College-Vision/static/js/2.27cc0164.chunk.js.LICENSE.txt",
+    "static/css/main.0e8a2465.chunk.css.map": "/QH-Inter-College-Vision/static/css/main.0e8a2465.chunk.css.map",
+    "static/js/2.7fa24214.chunk.js.LICENSE.txt": "/QH-Inter-College-Vision/static/js/2.7fa24214.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/QH-Inter-College-Vision/static/media/Logo.2beca9de.png",
-    "static/media/MyLogo.jpg": "/QH-Inter-College-Vision/static/media/MyLogo.7ebbfd81.jpg",
     "static/media/WhatsApp.jpeg": "/QH-Inter-College-Vision/static/media/WhatsApp.2e2e4b1a.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.85764345.js",
-    "static/js/2.27cc0164.chunk.js",
-    "static/css/main.28149bf3.chunk.css",
-    "static/js/main.8bfd1ca8.chunk.js"
+    "static/js/2.7fa24214.chunk.js",
+    "static/css/main.0e8a2465.chunk.css",
+    "static/js/main.5870027b.chunk.js"
   ]
 }

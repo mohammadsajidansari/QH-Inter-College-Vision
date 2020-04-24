@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/QH-Inter-College-Vision/precache-manifest.cc2dbb18371f22e0c990d3fc54180e17.js"
+  "/QH-Inter-College-Vision/precache-manifest.bf5cd7f5a28bfc0eddb244d6fc2c4958.js"
 );
 
 self.addEventListener('message', (event) => {
