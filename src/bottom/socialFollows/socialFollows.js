@@ -1,6 +1,5 @@
 import React from 'react';
 
-import MyLogo from '../../Image/MyLogo.jpg';
 import './socialFollows.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faYoutube, faInstagram, faWhatsapp  } from "@fortawesome/free-brands-svg-icons"; 
@@ -20,7 +19,6 @@ function SocialFollows () {
           <FontAwesomeIcon icon={faYoutube} size="1x" />
         </a>
         <div className="developer" >Developed By Mohammad Sajid.</div>
-        <img src={MyLogo} alt="logo-img-mine" className="MyImg" />
       </div>
     );
 }
